@@ -49,6 +49,6 @@ Run Streamlit Dashboard:
 
 streamlit run dashboard/app.py
 
-📌 Future Enhancements
+<h2>📌 Future Enhancements</h2>
 
 Enhance the dashboard with more interactive features
